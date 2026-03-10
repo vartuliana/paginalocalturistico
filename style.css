@@ -6,8 +6,7 @@
 #page{
     box-sizing: border-box;
     width: 1120px;
-    margin-top: 88px;
-    margin-left: 80px;
+    margin: 48px auto;
 }
 
 body{
